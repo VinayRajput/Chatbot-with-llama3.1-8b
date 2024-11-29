@@ -68,9 +68,6 @@ pip install -U langchain-ollama
 pip install langchain-community
 ```
 
-# Optional Python Packages
-
-## Install using pip
 ### PyPDFLoader
 ```bash
 pip install pypdf
