@@ -1,6 +1,6 @@
-# README.md for Configuring Llama 3.1:8B on Local Machine
+# README.md for Configuring Chatbot with Llama 3.1:8B on Local Machine
 
-This document provides a step-by-step guide to install and run the Llama 3.1:8B model on your local machine across different operating systems: Windows, macOS, and Ubuntu.
+This document provides a step-by-step guide to install and run the Llama 3.1:8B model on your local machine and configure a chatbot which can read document file and answer questions.
 
 ## Prerequisites
 
@@ -8,6 +8,7 @@ Before you begin, ensure you have the following installed:
 - **Python** (version 3.8 or higher)
 - **Pip** (Python package installer)
 - **Git** (for cloning repositories)
+- **VSCode** (recommended for editing and debugging code)
 
 ## Installation Steps
 
