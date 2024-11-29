@@ -1,4 +1,4 @@
-# README.md for Configuring Chatbot with Llama 3.1:8B on Local Machine
+# Configuring Chatbot with Llama 3.1:8B on Local Machine
 
 This document provides a step-by-step guide to install and run the Llama 3.1:8B model on your local machine and configure a chatbot which can read document file and answer questions.
 
